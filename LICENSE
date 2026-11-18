@@ -1,0 +1,42 @@
+Copyright (c) 2026 Mohammed Jamaal Rushdi. All Rights Reserved.
+
+PROPRIETARY LICENSE - VIEWING ONLY
+
+This repository and everything in it, including but not limited to the source
+code, database schema, seed data, user interface design, documentation and
+workflows (together, the "Software"), is the exclusive intellectual property of
+the copyright holder named above (the "Owner").
+
+The Software is published publicly for the sole purpose of letting others VIEW
+it, for example to evaluate the Owner's skills and portfolio. Publication on
+GitHub does not grant any license or right other than the limited permission
+below.
+
+PERMITTED
+- Viewing and reading the source code in this repository.
+- Using GitHub's own features that apply to every public repository (for
+  example forking solely within GitHub's platform to view the code, as the
+  GitHub Terms of Service allow).
+
+NOT PERMITTED without the Owner's prior written permission
+- Using the Software, in whole or in part, for any commercial purpose,
+  including running it for a business, offering it as a product or service
+  (SaaS), selling, sublicensing or renting it, or using it in client work.
+- Copying, modifying, adapting, translating or creating derivative works.
+- Distributing, publishing or sharing the Software or any part of it.
+- Using the Software or its code to train, fine-tune or evaluate machine
+  learning or AI systems.
+- Removing or altering this notice or any copyright notice.
+
+NO OTHER RIGHTS
+All rights not expressly granted are reserved by the Owner, including all
+copyright, patent, trade secret, trademark and commercial rights. No license is
+granted by implication, estoppel or otherwise.
+
+NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE OWNER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM ANY USE OF THE SOFTWARE.
+
+For permission requests or commercial licensing enquiries, contact the Owner
+through their GitHub profile.

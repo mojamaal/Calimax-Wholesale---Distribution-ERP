@@ -1,0 +1,9 @@
+# Local / generated
+uploads/*
+!uploads/.gitkeep
+*.log
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

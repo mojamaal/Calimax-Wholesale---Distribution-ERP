@@ -1,0 +1,14 @@
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Block access to dotfiles and SQL files anywhere under the app
+<FilesMatch "(^\.|\.sql$|\.md$|\.log$)">
+    Require all denied
+</FilesMatch>
+
+Options -Indexes
